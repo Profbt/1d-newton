@@ -3,3 +3,9 @@ ul {
     background-color: aquamarine;
     font-size: 60px;
 }
+
+ol {
+    color: aquamarine;
+    background-color: blueviolet;
+    list-style: none;
+}
