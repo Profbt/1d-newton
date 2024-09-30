@@ -8,8 +8,14 @@ body {
 
 header {
     font-size: 30px;
+    
+}
+
+ul {
     display: flex;
     gap: 30px;
     list-style: none;
     text-transform: uppercase;
+    color: white;
+    font-weight: 600;
 }
