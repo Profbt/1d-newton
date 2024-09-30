@@ -22,3 +22,7 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+li:hover {
+    background-color: black;
+}
