@@ -17,3 +17,11 @@ header {
     gap: 28px;
 }
 
+.lista2 {
+   display: flex; 
+   color: aqua;
+   gap: 40px;
+   text-transform: lowercase;
+   font-size: 15px;
+}
+
