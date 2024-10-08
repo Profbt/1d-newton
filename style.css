@@ -25,7 +25,7 @@ header {
    font-size: 15px;
 }
 
-.listaitem:hover {
+.lista-item:hover {
     background-color: black;
     color: white;
     cursor: pointer;
