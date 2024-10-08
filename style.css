@@ -9,7 +9,7 @@ header {
     justify-content: center;
 }
 
-#lista {
+.lista {
     display: flex;
     list-style: none;
     font-size: 40px;
