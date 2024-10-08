@@ -13,12 +13,6 @@ ul {
     display: flex;
     list-style: none;
     font-size: 40px;
-    text-transform: uppercase;
-    gap: 28px;
+    
 }
 
-.lista-item:hover {
-background-color: black;
-color: white;
-cursor: pointer;
-}
