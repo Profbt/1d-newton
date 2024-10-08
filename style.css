@@ -17,7 +17,7 @@ header {
     gap: 28px;
 }
 
-.lista-item:hover {
+li:hover {
 background-color: black;
 color: white;
 cursor: pointer;
