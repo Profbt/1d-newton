@@ -16,3 +16,9 @@ header {
     text-transform: uppercase;
     gap: 28px;
 }
+
+.lista-item:hover {
+background-color: black;
+color: white;
+cursor: pointer;
+}
