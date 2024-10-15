@@ -18,4 +18,10 @@ header {
     
 }
 
+.nav-item:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #d800a6;
+}
+
 
