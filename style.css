@@ -57,6 +57,7 @@ section {
 .video {
     flex: 1 1 30%;
     margin: 10px;
+    aspect-ratio: 16/9;
     box-sizing: border-box;
 }
 
