@@ -76,6 +76,9 @@ section {
     justify-content: space-between;
     align-items: center;
 }
+.navbar a {
+    text-decoration: none;
+}
 
 #logo {
     font-size: 1.5rem;
