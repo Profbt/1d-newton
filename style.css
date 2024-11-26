@@ -24,5 +24,35 @@ header {
     color: #d800a6;
 }
 
+section {
+    width: 100%;
+    padding-left: 8%;
+}
 
+.secao {
+    padding-right: 8%;
+    padding-top: 2%;
+}
 
+.moldura_videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.video {
+    flex: 1 1 30%;
+    margin: 10px;
+}
+
+.video iframe {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+* {
+    margin-top: 0;
+    padding: 0;
+}
